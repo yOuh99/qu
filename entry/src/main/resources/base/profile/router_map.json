@@ -1,0 +1,11 @@
+{
+  "routerMap":[
+    {
+      "name": "SearchPage",
+      "pageSourceFile": "src/main/ets/navpages/SearchPage.ets",
+      "buildFunction": "SearchPageBuilder"
+    }
+
+
+  ]
+}
